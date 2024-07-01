@@ -1,3 +1,3 @@
 # Verano_Ejercicios
-# Eduardo Gómez Mejia
-# 2B
+# Nombre: Eduardo Gómez Mejia
+# Grupo: B
